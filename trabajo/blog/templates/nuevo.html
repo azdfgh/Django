@@ -1,0 +1,14 @@
+{% extends "estructura.html" %}
+
+{%block contenido1 %}
+
+<h2 align=center>Nueva Entrada</h1>
+
+	<form method='post' enctype="multipart/form-data">
+	{% csrf_token %}
+		{{ formulario.as_p}}
+	<input id="submit" type="submit" name="submit" value="Enviar" />
+
+	</form>
+
+{% endblock%}
