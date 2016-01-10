@@ -1,0 +1,5 @@
+l,nombre1,editorial1,autor1,fecha1,0,isbn1,edicion1
+c,nombre2,editorial2,autor2,fecha2,15,issn2,volumen2,numero2
+l,nombre3,editorial3,autor3,fecha3,20,isbn3,edicion3
+l,nombre4,editorial4,autor4,fecha4,5,isbn4,edicion4
+c,nombre5,editorial5,autor5,fecha5,25,issn5,volumen5,numero5
